@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-aswath&label=Profile%20views&color=0e75b6&style=flat" alt="t-aswath" /> </p>
 
-- 🌱 I’m currently learning **js**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **aswatht.cse2022@citchennai.net**
 
